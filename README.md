@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micahget&label=Profile%20views&color=0e75b6&style=flat" alt="micahget" /> </p>
 
-- 🌱 I’m currently learning **JAVA,JAVASCRIPT,ORACLE SQL**
+- 🌱 I’m currently learning **NodeJS and React JS**
 
 - 👯 I’m looking to collaborate on **E-commerce Website development**
 
