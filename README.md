@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **NodeJS and React JS**
 
-- 👯 I’m looking to collaborate on **E-commerce Website development**
 
 - 📫 How to reach me **mikiyasgetachew77@gmail.com**
 
