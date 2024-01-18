@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micahget&label=Profile%20views&color=0e75b6&style=flat" alt="micahget" /> </p>
 
-- 🌱 I’m currently learning **NodeJS and React JS**
+- 🌱 I’m currently learning **NodeJS, React JS and FLUTTER**
 
 
 - 📫 How to reach me **mikiyasgetachew77@gmail.com**
